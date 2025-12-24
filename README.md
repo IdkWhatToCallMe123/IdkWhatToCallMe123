@@ -3,4 +3,4 @@
 ### Still learning
 ![Still learning](https://go-skill-icons.vercel.app/api/icons?i=cs,go,kotlin,react,nuxt,postgresql)
 ### Other tools I've used
-![Other tools I've used](https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,ubuntu,fedora,vercel,netlify,figma,pr,audition,aftereffects,illustrator)
+![Other tools I've used](https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,ubuntu,fedora,vercel,netlify,figma,pr,audition,aftereffects,illustrator,photoshop)
