@@ -16,6 +16,6 @@
 <h3 align="center">Other tools I've used</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,ubuntu,fedora,vercel,netlify,figma,pr,audition,aftereffects,illustrator,photoshop)" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,androidstudio,ubuntu,fedora,vercel,netlify,figma,pr,audition,aftereffects,illustrator,ps" />
   </a>
 </p>
