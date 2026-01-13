@@ -1,3 +1,10 @@
+<h3 align="center">Currently working on</h3>
+<p align="center">
+  <a href="https://wordaddict.app">
+    wordaddict - the best way to learn english vocabulary!
+  </a>
+</p>
+
 <h3 align="center">My skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
