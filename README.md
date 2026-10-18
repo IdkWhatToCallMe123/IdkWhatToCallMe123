@@ -1,14 +1,4 @@
-<h3 align="center">Currently working on...</h3>
-<p align="center">
-    <a href="https://wordaddict.app">
-     <img src="/other-banner.png" width="600" />
-  </a>   
-</p>
-<p align="center">
-  <a href="https://wordaddict.app">
-    wordaddict - the best way to learn english vocabulary!
-  </a>  
-</p>
+
 
 
 <h3 align="center">My skills</h3>
